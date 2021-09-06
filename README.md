@@ -1,2 +1,2 @@
 # 📖 Python Dictionary
-Simple English Words Dictionary using Python
+Simple English Words Dictionary using Python (infinite search🔎)
